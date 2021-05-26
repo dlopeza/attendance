@@ -1,1 +1,3 @@
-# attendance
+# Simple attendance Web app
+
+Starting from scratch...
